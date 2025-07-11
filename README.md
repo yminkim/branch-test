@@ -9,6 +9,11 @@
 
 ## About Laravel
 이곳이 나의 고향, 나의 무덤, 나의 역사 newB가 간다!
+
+1. 기능을 만들었습니다.
+2. 기능 2를 만들고 커밋
+3. 기능을 3까지나 만들고 커밋, 이제 스콰시 머지 해볼예정
+
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
